@@ -14,6 +14,9 @@
   
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
+  <li><strong>[Dec. 2022]</strong> Our paper about <a href="">zero-shot learning</a> is accepted to <a href="https://aaai.org/conference/aaai/aaai-22/">AAAI 2022</a>.</li>
+
+  
   <li><strong>[Dec. 2022]</strong> <a href="https://www.bmvc2023.org">BMVC 2023</a> will be held in Aberdeen, UK, and I will serve as the Website Chair.</li>
   <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
   <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
