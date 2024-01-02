@@ -51,7 +51,7 @@ main:
     conference: IEEE/CVF International Joint Conference on Artificial Intelligence, <strong>(IJCAI)</strong>, 2022.
     pdf: https://www.ijcai.org/proceedings/2022/0459.pdf
     bibtex: https://dblp.uni-trier.de/rec/journals/pami/SunLCCS22.html?view=bibtex
-    image: ./assets/img/AAAI2022-Figure01.png
+    image: ./assets/img/IJCAI2022-Figure01.png
 
   - title: "Beyond Shared Subspace: A View-Specific Fusion for Multi-View Multi-Label Learning"
     authors: Gengyu Lyu, Xiang Deng, <strong>Yanan Wu</strong>, Songhe Feng 
@@ -59,7 +59,7 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2022
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490
     bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiuSS21.html?view=bibtex
-    image: https://img.yliu.me/teaser/RMM.png
+    image: ./assets/img/AAAI2022-Figure01.png
 
   - title: "GM-MLIC: Graph Matching based Multi-Label Image Classifification"
     authors: <strong>Yanan Wu</strong>, He Liu, Songhe Feng, Gengyu Lyu, Zizhang Wu
