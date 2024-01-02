@@ -1,12 +1,12 @@
-<h1 id="teaching"></h1>
+<h1 id="Teaching Assistant"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 
 <ul>
   <li>
-    Head Teaching Assistant, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2022
+    Pattern recognition, <a href="http://www.hrbust.edu.cn"> Harbin University of Science and Technology</a>, Spring 2018
   </li>
   <li>
-    Teaching Assistant, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2021
+    Machine learning, <a href="http://www.hrbust.edu.cn"> Harbin University of Science and Technology</a>, Spring 2017
   </li>
 </ul>
