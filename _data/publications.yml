@@ -8,7 +8,7 @@ main:
     code: https://github.com/ynanwu/MABN
     page: xxxxx
     bibtex: https://bib.yliu.me/arXiv23_1.txt
-    image: https://img.yliu.me/teaser/dst.png
+    image: ./assets/img/AAAI2024-Figure02.pdf
 
   - title: "MetaGCD: Learning to Continually Learn in Generalized Category Discovery" 
     authors: <strong>Yanan Wu</strong>, Zhixiang Chi,Yang Wang, Songhe Feng
