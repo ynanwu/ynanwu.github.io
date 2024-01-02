@@ -61,61 +61,18 @@ main:
     bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiuSS21.html?view=bibtex
     image: https://img.yliu.me/teaser/RMM.png
 
-  - title: Adaptive Aggregation Networks for Class-Incremental Learning
-    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2010.05063.pdf
-    code: https://git.io/JYHyt
-    page: https://class-il.mpi-inf.mpg.de/
+  - title: "GM-MLIC: Graph Matching based Multi-Label Image Classifification"
+    authors: <strong>Yanan Wu</strong>, He Liu, Songhe Feng, Gengyu Lyu, Zizhang Wu
+    conference_short: IJCAI
+    conference: IEEE/CVF International Joint Conference on Artificial Intelligence, <strong>(IJCAI)</strong>, 2021.
+    pdf: https://www.ijcai.org/proceedings/2021/0163.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/LiuSS21.html?view=bibtex
     image: https://img.yliu.me/teaser/AANets.png
-    others: '<a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/adaptive-aggregation-networks" target="_blank" rel="noopener"><strong> <i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a><script>githubStars("yaoyao-liu/class-incremental-learning", function(stars) {var startext = document.getElementById("githubstars_manets"); startext.innerHTML=stars;});</script>'
 
-  - title: Learning to Teach and Learn for Semi-supervised Few-shot Image Classification
-    authors: Xinzhe Li, Jianqiang Huang, <strong>Yaoyao Liu</strong>, Qin Zhou, Shibao Zheng, Bernt Schiele, Qianru Sun
-    conference_short: CVIU
-    conference: Computer Vision and Image Understanding <strong>(CVIU)</strong>, Volume 212, 2021.
-    pdf: https://lyy.mpi-inf.mpg.de/preprints/Learning_to_Teach_and_Learn_for_Semi_Supervised_Few_Shot_Image_Classification.pdf
-    code: https://github.com/xinzheli1217/learning-to-self-train
+  - title: "L4Net: An Anchor-Free Generic Object Detector with Attention Mechanism for Autonomous Driving"
+    authors: <strong>Yanan Wu</strong>, Songhe Feng, Xiankai Huang, Zizhang Wu
+    conference_short: IET-CV
+    conference: IET Computer Vision, <strong>(IET-CV)</strong>, 2021.
+    pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cvi2.12015
     bibtex: https://dblp.uni-trier.de/rec/journals/cviu/LiHLZZSS21.html?view=bibtex
     image: https://img.yliu.me/teaser/LTTL.png
-
-  - title: Generating Face Images with Attributes for Free
-    authors: <strong>Yaoyao Liu</strong>, Qianru Sun, Xiangnan He, An-An Liu, Yuting Su, Tat-Seng Chua
-    conference_short: TNNLS
-    conference: IEEE Transactions on Neural Networks and Learning Systems <strong>(TNNLS)</strong>, Volume 32, Number 6, 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9146375
-    bibtex: https://dblp.uni-trier.de/rec/journals/tnn/LiuSHLSC21.html?view=bibtex
-    image: https://img.yliu.me/teaser/tnnls.png
-
-  - title: An Ensemble of Epoch-wise Empirical Bayes for Few-shot Learning
-    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Qianru Sun
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2020.
-    pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610392.pdf
-    code: https://gitlab.mpi-klsb.mpg.de/yaoyaoliu/e3bm
-    page: https://lyy.mpi-inf.mpg.de/e3bm/
-    bibtex: https://dblp.uni-trier.de/rec/conf/eccv/LiuSS20.html?view=bibtex
-    image: https://img.yliu.me/teaser/E3BM.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: https://img.yliu.me/teaser/mnemonics.png
-
-  - title: Learning to Self-Train for Semi-Supervised Few-Shot Classification
-    authors: Xinzhe Li, Qianru Sun, <strong>Yaoyao Liu</strong>, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-    conference_short: NeurIPS
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2019.
-    pdf: https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf
-    code: https://github.com/xinzheli1217/learning-to-self-trai
-    page: https://lyy.mpi-inf.mpg.de/lst/
-    bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiSLZZCS19.html?view=bibtex
-    image: https://img.yliu.me/teaser/LST.png
