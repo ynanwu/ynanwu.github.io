@@ -1,7 +1,7 @@
 main:
 
   - title: Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization
-    authors: <strong>Yanan Wu*</strong>, Zhixiang Chi, Yang Wang, Konstantinos N Plataniotis, Songhe Feng
+    authors: <strong>Yanan Wu</strong>, Zhixiang Chi, Yang Wang, Konstantinos N Plataniotis, Songhe Feng
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.10165.pdf
