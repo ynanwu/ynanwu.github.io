@@ -2,35 +2,20 @@
 
 <h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
 
-
-<h4 style="margin:0 10px 0;">Learning from Imperfect Data: Incremental Learning and Few-shot Learning.</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://engineering.purdue.edu/ChanGroup/comp_imaging_seminar.html"><autocolor>Computational Imaging Seminar, Purdue University, August 2023.</autocolor></a></li>
-  <li><a href="https://sites.google.com/view/visionseminar"><autocolor>Vision and Graphics Seminar, Massachusetts Institute of Technology, April 2023.</autocolor></a></li>
-  <li><a href="https://calendars.illinois.edu/detail/2568?eventId=33456212"><autocolor>External Speaker Series, University of Illinois Urbana-Champaign, April 2023.</autocolor></a></li>
-  <li><a href="https://vigr.cs.columbia.edu/vigr_seminar.html"><autocolor>VIGR Seminar, Columbia University, March 2023.</autocolor></a></li>
-  <li><a href="https://ccvl.jhu.edu/"><autocolor>Computational Cognition, Vision, and Learning Lab, Johns Hopkins University, January 2023.</autocolor></a></li>
-  <li><a href="https://www.robots.ox.ac.uk/~vgg/"><autocolor>Visual Geometry Group (VGG), University of Oxford, November 2022.</autocolor></a></li>
-  <li><a href="https://fvl.fudan.edu.cn/"><autocolor>Fudan Vision and Learning Laboratory, Fudan University, September 2022.</autocolor></a></li>
-  <li><a href="https://www.nextcenter.org/"><autocolor>NExT++ Research Center, National University of Singapore, Singapore, April 2022.</autocolor></a></li>
-  <li>Singapore Management University, Singapore, September 2020.</li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Meta-transfer Learning for Few-shot Learning.</h4>
+<h4 style="margin:0 10px 0;">Learning to Continually Learn in Generalized Category Discovery.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>École Polytechnique Fédérale de Lausann (EPFL), March 2023.</li>
+  <li>Paris Convention Center, Paris, French, October 2023.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Learning to Self-train for Semi-supervised Few-shot Classification.</h4>
+<h4 style="margin:0 10px 0;">A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>NeurIPS Official Meetups, Beijing, December 2019.</li>
+  <li>Walter E. Washington Convention Center, Washington, United States, February 2023.</li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Multi-class Incremental Learning.</h4>
+<h4 style="margin:0 10px 0;">Graph Matching based Multi-Label Image Classifification.</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>Nanyang Technological University, Singapore, July 2019.</li>
+  <li>Montreal-themed Virtual Reality, Online, August 2021.</li>
 </ul>
