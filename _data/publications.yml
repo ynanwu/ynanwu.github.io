@@ -33,7 +33,7 @@ main:
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-    image: ./assets/img/
+    image: ./assets/img/TCSVT2023-01-Figure2.pdf
     notes: Early Access
 
   - title: Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification
@@ -42,7 +42,7 @@ main:
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
-    image: ./assets/img/
+    image: ./assets/img/TCSVT2023-02-Figure1.pdf
     notes: Early Access
 
   - title: Deep Graph Matching for Partial Label Learning
