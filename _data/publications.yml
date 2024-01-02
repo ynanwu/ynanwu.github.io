@@ -1,10 +1,10 @@
 main:
 
-  - title: Adding 3D Geometry Control to Diffusion Models
-    authors: Wufei Ma*, Qihao Liu*, Jiahao Wang*, Angtian Wang, <strong>Yaoyao Liu<sup>#</sup></strong>, Adam Kortylewski, Alan Yuille (<sup>#</sup>Corresponding author)
-    conference_short: Preprint
-    conference: Under review.
-    pdf: https://arxiv.org/pdf/2306.08103.pdf
+  - title: Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization
+    authors: <strong>Yanan Wu*</strong, Zhixiang Chi, Yang Wang, Konstantinos N Plataniotis, Songhe Feng
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2312.10165.pdf
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: https://img.yliu.me/teaser/dst.png
 
