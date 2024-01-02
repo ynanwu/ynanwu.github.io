@@ -67,7 +67,7 @@ main:
     conference: IEEE/CVF International Joint Conference on Artificial Intelligence, <strong>(IJCAI)</strong>, 2021.
     pdf: https://www.ijcai.org/proceedings/2021/0163.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/LiuSS21.html?view=bibtex
-    image: https://img.yliu.me/teaser/AANets.png
+    image: ./assets/img/IJCAI2021-Figure01.png
 
   - title: "L4Net: An Anchor-Free Generic Object Detector with Attention Mechanism for Autonomous Driving"
     authors: <strong>Yanan Wu</strong>, Songhe Feng, Xiankai Huang, Zizhang Wu
