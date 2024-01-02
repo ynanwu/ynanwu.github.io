@@ -17,7 +17,7 @@ main:
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf
     code: https://github.com/ynanwu/MetaGCD
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: https://img.yliu.me/teaser/miccai2023.png
+    image: ./assets/img/ICCV2023-Figure02.pdf
 
   - title: "MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning" 
     authors: <strong>Yanan Wu</strong>, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Haojun Fei, Yang Wang
