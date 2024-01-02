@@ -25,7 +25,7 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/0001SV023.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_1.png
+    image: ./assets/img/AAAI2023-Figure01.pdf
 
   - title: Semantic-Aware Graph Matching Mechanism for Multi-Label Image Recognition
     authors: <strong>Yanan Wu</strong>, Songhe Feng, Yang Wang
@@ -33,7 +33,7 @@ main:
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
-    image: https://img.yliu.me/teaser/cvpr23_2.png
+    image: ./assets/img/
     notes: Early Access
 
   - title: Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification
@@ -42,7 +42,7 @@ main:
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
-    image: https://img.yliu.me/teaser/OnlineHyperparameters.png
+    image: ./assets/img/
     notes: Early Access
 
   - title: Deep Graph Matching for Partial Label Learning
