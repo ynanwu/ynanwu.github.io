@@ -10,7 +10,7 @@ main:
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: https://img.yliu.me/teaser/dst.png
 
-  - title: MetaGCD: Learning to Continually Learn in Generalized Category Discovery 
+  - title: "MetaGCD: Learning to Continually Learn in Generalized Category Discovery" 
     authors: <strong>Yanan Wu</strong>, Zhixiang Chi,Yang Wang, Songhe Feng
     conference_short: ICCV   
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
@@ -19,7 +19,7 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: https://img.yliu.me/teaser/miccai2023.png
 
-  - title: MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning 
+  - title: "MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning" 
     authors: <strong>Yanan Wu</strong>, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
