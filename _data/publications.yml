@@ -75,4 +75,4 @@ main:
     conference: IET Computer Vision, <strong>(IET-CV)</strong>, 2021.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cvi2.12015
     bibtex: https://dblp.uni-trier.de/rec/journals/cviu/LiHLZZSS21.html?view=bibtex
-    image: https://img.yliu.me/teaser/LTTL.png
+    image: ./assets/img/IET-CV2021-Figure02.png
