@@ -1,15 +1,15 @@
 # Basic Information 
 title: Yanan Wu
-position: Ph.D
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
+position: Ph.D.
+affiliation: Beijing Jiaotong University
+affiliation_link: https://bjtu.edu.cn
 affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yliu538 (at) jhu.edu
+email: ynw0510 (at) gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: yanan wu, wu yanan, yananwu, wuyanan
+canonical: https://ynanwu.github.io
+description: Yanan Wu is a CS Ph.D. student at Beijing Jiaotong University. Her research lies in meta-learning, incremental learning, and transfer learning.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
