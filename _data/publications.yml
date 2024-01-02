@@ -35,13 +35,11 @@ main:
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
     image: https://img.yliu.me/teaser/cvpr23_2.png
 
-  - title: Online Hyperparameter Optimization for Class-Incremental Learning
-    authors: <strong>Yaoyao Liu</strong>, Yingying Li, Bernt Schiele, Qianru Sun
-    conference_short: AAAI
-    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2301.05032.pdf
-    code: https://github.com/yaoyao-liu/online-hyperparameter-optimization/
-    page: https://class-il.mpi-inf.mpg.de/online-hyperparameter-optimization/
+  - title: Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification
+    authors: <strong>Yanan Wu</strong>, Songhe Feng, Gongpei Zhao, Yi Jin
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
     notes: Oral Presentation
     image: https://img.yliu.me/teaser/OnlineHyperparameters.png
