@@ -5,6 +5,8 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.10165.pdf
+    code: https://github.com/ynanwu/MABN
+    page: xxxxx
     bibtex: https://bib.yliu.me/arXiv23_1.txt
     image: https://img.yliu.me/teaser/dst.png
 
@@ -17,13 +19,11 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: https://img.yliu.me/teaser/miccai2023.png
 
-  - title: Continual Detection Transformer for Incremental Object Detection
-    authors: <strong>Yaoyao Liu</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
-    pdf: https://www.robots.ox.ac.uk/~vgg/publications/2023/Liu23/liu23.pdf
-    code: https://github.com/yaoyao-liu/CL-DETR
-    page: https://lyy.mpi-inf.mpg.de/CL-DETR/
+  - title: MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning 
+    authors: <strong>Yanan Wu</strong>, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/0001SV023.html?view=bibtex
     image: https://img.yliu.me/teaser/cvpr23_1.png
 
