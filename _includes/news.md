@@ -15,7 +15,7 @@
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
   <li><strong>[Dec. 2022]</strong> Our paper about <a href="https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010">zero-shot learning</a> is accepted to <a href="https://aaai.org/conference/aaai/aaai-22/">AAAI 2022</a>.</li>
-  <li><strong>[Apr. 2022]</strong> Our paper about <a href="https://www.ijcai.org/proceedings/2021/0163.pdf">multi-label image classification</a> is accepted to <a href="https://ijcai-21.org">IJCAI 2021</a>.</li>
+  <li><strong>[Apr. 2021]</strong> Our paper about <a href="https://www.ijcai.org/proceedings/2021/0163.pdf">multi-label image classification</a> is accepted to <a href="https://ijcai-21.org">IJCAI 2021</a>.</li>
   
 </div>
 
