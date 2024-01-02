@@ -6,8 +6,8 @@ main:
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.10165.pdf
     code: https://github.com/ynanwu/MABN
-    page: xxxxx
-    bibtex: https://bib.yliu.me/arXiv23_1.txt
+    page: https://chi-chi-zx.github.io/MABN_project/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iqaylxwwSz4J:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiMuD8:AFWwaeYAAAAAZZSKoD_CVw_sxZu-W17k-w84oAc&scisig=AFWwaeYAAAAAZZSKoKZ96nU94Pv1LCuQojSU6PE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/AAAI2024-Figure02.pdf
 
   - title: "MetaGCD: Learning to Continually Learn in Generalized Category Discovery" 
@@ -16,7 +16,7 @@ main:
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf
     code: https://github.com/ynanwu/MetaGCD
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dYoGH2XgDJYJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiMwxc:AFWwaeYAAAAAZZSK2xdoox3FQQalZTPwu6HQUEc&scisig=AFWwaeYAAAAAZZSK2_u6QnFGVhVcgBqt1GYbJ_M&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/ICCV2023-Figure02.pdf
 
   - title: "MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning" 
