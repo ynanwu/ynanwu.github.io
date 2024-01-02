@@ -20,7 +20,7 @@ main:
     image: https://img.yliu.me/teaser/miccai2023.png
 
   - title: "MetaZSCIL: A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning" 
-    authors: <strong>Yanan Wu</strong>, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Yang Wang
+    authors: <strong>Yanan Wu</strong>, Tengfei Liang, Songhe Feng, Yi Jin, Gengyu Lyu, Haojun Fei, Yang Wang
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010
@@ -34,6 +34,7 @@ main:
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
     image: https://img.yliu.me/teaser/cvpr23_2.png
+    notes: Early Access
 
   - title: Transformer Driven Matching Selection Mechanism for Multi-Label Image Classification
     authors: <strong>Yanan Wu</strong>, Songhe Feng, Gongpei Zhao, Yi Jin
@@ -41,8 +42,8 @@ main:
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf
     bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
-    notes: Oral Presentation
     image: https://img.yliu.me/teaser/OnlineHyperparameters.png
+    notes: Early Access
 
   - title: Meta-Transfer Learning through Hard Tasks
     authors: Qianru Sun*, <strong>Yaoyao Liu*</strong>, Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*Equal contribution)
