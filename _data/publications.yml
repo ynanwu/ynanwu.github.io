@@ -1,7 +1,7 @@
 main:
 
   - title: Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization
-    authors: <strong>Yanan Wu*</strong, Zhixiang Chi, Yang Wang, Konstantinos N Plataniotis, Songhe Feng
+    authors: <strong>Yanan Wu*</strong>, Zhixiang Chi, Yang Wang, Konstantinos N Plataniotis, Songhe Feng
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2312.10165.pdf
@@ -9,7 +9,7 @@ main:
     image: https://img.yliu.me/teaser/dst.png
 
   - title: MetaGCD: Learning to Continually Learn in Generalized Category Discovery 
-    authors: <strong>Yanan Wu*</strong, Zhixiang Chi,Yang Wang, Songhe Feng
+    authors: <strong>Yanan Wu*</strong>, Zhixiang Chi,Yang Wang, Songhe Feng
     conference_short: ICCV   
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Wu_MetaGCD_Learning_to_Continually_Learn_in_Generalized_Category_Discovery_ICCV_2023_paper.pdf
