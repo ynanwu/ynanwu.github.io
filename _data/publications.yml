@@ -24,7 +24,7 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/26238/26010
-    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/0001SV023.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TTsNRty8XZIJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiNUjo:AFWwaeYAAAAAZZSLSjr0dGe2wZG3dcaUT7n0YJM&scisig=AFWwaeYAAAAAZZSLSuWeL6LR6v6cdsu1BpNaCGQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/AAAI2023-Figure01.pdf
 
   - title: Semantic-Aware Graph Matching Mechanism for Multi-Label Image Recognition
@@ -32,7 +32,7 @@ main:
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10106016.pdf
-    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/Luo0SS23.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:U2m6Af0gOUAJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiNd_8:AFWwaeYAAAAAZZSLb_9Qfd3uPll24aI5oy2i1DQ&scisig=AFWwaeYAAAAAZZSLb3Ikp7xovBiT2jXiEFjjsYc&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/TCSVT2023-01-Figure2.pdf
     notes: Early Access
 
@@ -41,7 +41,7 @@ main:
     conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology <strong>(TCSVT)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/iel7/76/4358651/10158710.pdf
-    bibtex: https://dblp.uni-trier.de/rec/conf/aaai/0001LSS23.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vnZ5X7ZttFcJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiNkDI:AFWwaeYAAAAAZZSLiDIL97T6RExvUT5p5E57IJc&scisig=AFWwaeYAAAAAZZSLiIhF-iup4rbXwW-RRip0NSk&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/TCSVT2023-02-Figure1.pdf
     notes: Early Access
 
@@ -50,7 +50,7 @@ main:
     conference_short: IJCAI
     conference: IEEE/CVF International Joint Conference on Artificial Intelligence, <strong>(IJCAI)</strong>, 2022.
     pdf: https://www.ijcai.org/proceedings/2022/0459.pdf
-    bibtex: https://dblp.uni-trier.de/rec/journals/pami/SunLCCS22.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:q8F0b34yacQJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiNvu0:AFWwaeYAAAAAZZSLpu1WT3zDVlSyrzBWpLC3bjc&scisig=AFWwaeYAAAAAZZSLpiPjLr-QBm-NkMRScXG3YEk&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/IJCAI2022-Figure01.png
 
   - title: "Beyond Shared Subspace: A View-Specific Fusion for Multi-View Multi-Label Learning"
@@ -58,7 +58,7 @@ main:
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2022
     pdf: https://ojs.aaai.org/index.php/AAAI/article/download/20731/20490
-    bibtex: https://dblp.uni-trier.de/rec/conf/nips/LiuSS21.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:6o3FdUkjgfsJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiN2Fs:AFWwaeYAAAAAZZSLwFsO6zIfvR2LPh3uR7yZSqc&scisig=AFWwaeYAAAAAZZSLwDaLc6cGs-sxBvOu6JwsREA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/AAAI2022-Figure01.png
 
   - title: "GM-MLIC: Graph Matching based Multi-Label Image Classifification"
@@ -66,7 +66,7 @@ main:
     conference_short: IJCAI
     conference: IEEE/CVF International Joint Conference on Artificial Intelligence, <strong>(IJCAI)</strong>, 2021.
     pdf: https://www.ijcai.org/proceedings/2021/0163.pdf
-    bibtex: https://dblp.uni-trier.de/rec/conf/cvpr/LiuSS21.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wB9aZTUfH1EJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiNzsM:AFWwaeYAAAAAZZSL1sNjqhbsIxNcKUpBtOdM-b8&scisig=AFWwaeYAAAAAZZSL1v6Mc4q2NfsHkh8ORzf3JiQ&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/IJCAI2021-Figure01.png
 
   - title: "L4Net: An Anchor-Free Generic Object Detector with Attention Mechanism for Autonomous Driving"
@@ -74,5 +74,5 @@ main:
     conference_short: IET-CV
     conference: IET Computer Vision, <strong>(IET-CV)</strong>, 2021.
     pdf: https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cvi2.12015
-    bibtex: https://dblp.uni-trier.de/rec/journals/cviu/LiHLZZSS21.html?view=bibtex
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9YUJXd6frhMJ:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiN4v8:AFWwaeYAAAAAZZSL-v8DdPrh3SHqd09FFaq1fGo&scisig=AFWwaeYAAAAAZZSL-kCLWwgl36A7yO52dORsN_8&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/IET-CV2021-Figure02.png
