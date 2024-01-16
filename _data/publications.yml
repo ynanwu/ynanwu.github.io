@@ -9,7 +9,7 @@ main:
     page: https://chi-chi-zx.github.io/MABN_project/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iqaylxwwSz4J:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiMuD8:AFWwaeYAAAAAZZSKoD_CVw_sxZu-W17k-w84oAc&scisig=AFWwaeYAAAAAZZSKoKZ96nU94Pv1LCuQojSU6PE&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/AAAI2024-Figure02.png
-    notes: Oral
+    notes: Oral Presentation
 
   - title: "MetaGCD: Learning to Continually Learn in Generalized Category Discovery" 
     authors: <strong>Yanan Wu</strong>, Zhixiang Chi,Yang Wang, Songhe Feng
