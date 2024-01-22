@@ -5,7 +5,7 @@
 <h4 style="margin:0 10px 0;">Learning to Continually Learn in Generalized Category Discovery.</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Paris Convention Center, Paris, French, October 2023.</li>
+  <li>Paris Convention Center, Paris, France, October 2023.</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">A Meta-Learning Approach for Generalized Zero-Shot Class Incremental Learning.</h4>
