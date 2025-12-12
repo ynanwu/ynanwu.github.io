@@ -4,10 +4,19 @@ main:
     authors: Zhixiang Chi, <strong>Yanan Wu</strong>, Yang Wang, Konstantinos N Plataniotis
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    pdf: https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Plug-in_Feedback_Self-adaptive_Attention_in_CLIP_for_Training-free_Open-Vocabulary_Segmentation_ICCV_2025_paper.pdf
+    code: https://github.com/chi-chi-zx/FSA
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iqaylxwwSz4J:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiMuD8:AFWwaeYAAAAAZZSKoD_CVw_sxZu-W17k-w84oAc&scisig=AFWwaeYAAAAAZZSKoKZ96nU94Pv1LCuQojSU6PE&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/ICCV2025-Figure02.png
+
+  - title: Learning to Adapt Frozen CLIP for Few-Shot Test-Time Domain Adaptation
+    authors: Zhixiang Chi, <strong>Yanan Wu</strong>, Yang Wang, Konstantinos N Plataniotis
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     pdf: https://openreview.net/pdf?id=TD3SGJfBC7
     code: https://github.com/chi-chi-zx/L2C
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iqaylxwwSz4J:scholar.google.com/&output=citation&scisdr=ClE0pAMTEOjK9AiMuD8:AFWwaeYAAAAAZZSKoD_CVw_sxZu-W17k-w84oAc&scisig=AFWwaeYAAAAAZZSKoKZ96nU94Pv1LCuQojSU6PE&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    image: ./assets/img/ICCV2025-Figure02.png
+    image: ./assets/img/ICLR2025-Figure02.png
 
   - title: Test-Time Domain Adaptation by Learning Domain-Aware Batch Normalization
     authors: <strong>Yanan Wu</strong>, Zhixiang Chi, Yang Wang, Konstantinos N Plataniotis, Songhe Feng
