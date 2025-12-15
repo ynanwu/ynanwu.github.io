@@ -6,7 +6,7 @@
 <li><strong>[Nov. 2025]</strong> Our papers about <a href="https://arxiv.org/pdf/2312.10165">Category Discovery</a> are submitted to <a href="https://aaai.org/aaai-conference/">CVPR 2026</a>.</li>
 <li><strong>[Sep. 2025]</strong> I will serve as a reviewer of <a href="https://cvpr.thecvf.com/">CVPR 2026</a>.</li>
 <li><strong>[Aug. 2025]</strong> I will serve as a reviewer of <a href="https://openaccess.thecvf.com/AAAI2026">AAAI2026</a>.</li>
-<li><strong>[Jul. 2025]</strong> Our paper about <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Plug-in_Feedback_Self-adaptive_Attention_in_CLIP_for_Training-free_Open-Vocabulary_Segmentation_ICCV_2025_paper.pdf">Training-free Test-Time Domain Adaptationy</a> is accepted to <a href="https://openaccess.thecvf.com/ICCV2025">ICCV 2025</a>.</li>
+<li><strong>[Jul. 2025]</strong> Our paper about <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Chi_Plug-in_Feedback_Self-adaptive_Attention_in_CLIP_for_Training-free_Open-Vocabulary_Segmentation_ICCV_2025_paper.pdf">Test-Time Domain Adaptationy</a> is accepted to <a href="https://openaccess.thecvf.com/ICCV2025">ICCV 2025</a>.</li>
 <li><strong>[Apr. 2025]</strong> Our paper about <a href="https://openreview.net/pdf?id=TD3SGJfBC7">Generalized Category Discovery</a> is accepted to <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76">ICLR 2025</a>.</li>
 
 
