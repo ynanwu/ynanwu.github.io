@@ -19,7 +19,7 @@ main:
     image: ./assets/img/ICLR2025-Figure02.png
 
    - title: Distribution Alignment for Fully Test-Time Adaptation with Dynamic Online Data Streams
-    authors: Ziqiang Wang, Zhixiang Chi, <strong>Yanan Wu</strong>, Zhi Liu, Yang Wang.
+    authors: Ziqiang Wang, Zhixiang Chi, <strong>Yanan Wu</strong>, Li Gu, Zhi Liu, Yang Wang.
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 204.
     pdf: https://arxiv.org/pdf/2407.12128
